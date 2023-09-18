@@ -20,11 +20,14 @@
   </div>
   <div>
     <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
   </div>
 </div>
+
 
 <div align="center">
   <h4>✨SNS✨</h4>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=white"/>
 </div>
 
