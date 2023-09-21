@@ -1,5 +1,12 @@
 <h1>🎶Hot & Funny</h1>
 
+<h1>Description</h1>
+
+```
+Hot & Funny는 콘서트 예매 서비스입니다.
+- 티켓 예매, 좌석 선택, 좌석 결제 서비스
+- 공지사항, 
+```
 
 
 <div align="center">
