@@ -1,4 +1,7 @@
-<h1 align="center">Hot & Funny</h1>
+<h1>🎶Hot & Funny</h1>
+
+
+
 <div align="center">
   <h3>🎉Tech Stack🎉</h3>
   <h4>🌈Platforms & Language🌈</h4>
