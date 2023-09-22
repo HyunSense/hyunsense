@@ -4,10 +4,58 @@
 
 ```
 Hot & Funny는 콘서트 예매 서비스입니다.
-- 티켓 예매, 좌석 선택, 좌석 결제 서비스
-- 공지사항, 
+300석 규모의 좌석 예약 시스템과, 로그인/회원가입, 관리자 기능, 기본적인 CRUD가 구현되있는 공지사항,문의게시판 등을 이용할 수 있습니다.
 ```
 
+
+<h1>팀원</h1>
+<ul>
+<li>
+  현재훈(팀장)<br>
+  - 총괄, 메인페이지  
+</li>
+<li>
+  신현욱(Ticket)<br>
+  - 좌석 선택<br>  
+  - 결제  
+</li>
+<li>
+  고일봉(Ticket)<br>
+  - 예매 날짜 선택<br> 
+  - 티켓 발부  
+</li>
+<li>
+  임승범(Login/MyPage)<br>
+  - 로그인/회원가입<br>  
+  - 마이페이지  
+</li>
+<li>
+  손준영(Admin)<br>
+  - 총괄, 메인페이지<br>  
+  - 티켓 통계관리  
+</li>
+<li>
+  신민기(Board)<br>
+  - 공지사항,이벤트,Qna (게시판)  
+</li>
+  
+</ul>
+* 현재훈(팀장)
+  * 총괄, 메인페이지
+- 신현욱(Ticket)
+  - 좌석 선택
+  - 결제
+- 고일봉(Ticket)
+  - 예매 날짜 선택
+  - 티켓 발부
+- 임승범(Login/MyPage)
+  - 로그인/회원가입
+  - 마이페이지
+- 손준영(Admin)
+  - 관리자 페이지
+  - 티켓 통계관리
+- 신민기(Board)
+  - 공지사항,이벤트,Qna (게시판)
 
 <div align="center">
   <h3>🎉Tech Stack🎉</h3>
@@ -27,10 +75,7 @@ Hot & Funny는 콘서트 예매 서비스입니다.
   <div>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/Mybatis-0467DF?style=flat&logo=Mybatis&logoColor=white"/>
-  </div>
-  <div>
     <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
   </div>
 </div>
 
@@ -39,5 +84,11 @@ Hot & Funny는 콘서트 예매 서비스입니다.
   <h4>✨SNS✨</h4>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 </div>
+
+
+
+
+
 
