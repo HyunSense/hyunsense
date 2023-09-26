@@ -2,10 +2,10 @@
 
 <h1>Description</h1>
 
-```
-Hot & Funny는 콘서트 예매 서비스입니다.
-300석 규모의 좌석 예약 시스템과, 로그인/회원가입, 관리자 기능, 기본적인 CRUD가 구현되있는 공지사항,문의게시판 등을 이용할 수 있습니다.
-```
+Hot & Funny는 콘서트 예매 서비스입니다.   
+300석 규모의 좌석 예약 시스템과, 로그인/회원가입, 관리자 기능,    
+기본적인 CRUD가 구현되있는 공지사항,문의게시판 등을 이용할 수 있습니다.
+
 
 
 <h1>팀원</h1>
@@ -72,12 +72,20 @@ Hot & Funny는 콘서트 예매 서비스입니다.
 
 
 <h1>와이어 프레임</h1>
-<img width="80%" src="https://github.com/HyunSense/hyunsense/assets/130532597/a98082c4-880b-4700-bd22-3b2b3f19b501"/>
+<div align="center">
+  <img width="80%" align="center" src="https://github.com/HyunSense/hyunsense/assets/130532597/a98082c4-880b-4700-bd22-3b2b3f19b501"/>
+</div>
 
 
 <h1>요구사항 정의서</h1>
-<img width="80%" src="https://github.com/HyunSense/hyunsense/assets/130532597/3b230830-7896-4a97-88c9-ed0313c65e9f"/>
+<div align="center">
+  <img width="80%" src="https://github.com/HyunSense/hyunsense/assets/130532597/3b230830-7896-4a97-88c9-ed0313c65e9f"/>
+</div>
 
+<h1>ERD</h1>
+<div align="center">
+  <img width="80%" src="https://github.com/HyunSense/hyunsense/assets/130532597/d0e0948c-af98-4d34-8a53-85fdfca520c2"/>
+</div>
 
 
 
