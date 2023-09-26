@@ -87,5 +87,13 @@ Hot & Funny는 콘서트 예매 서비스입니다.
   <img width="80%" src="https://github.com/HyunSense/hyunsense/assets/130532597/d0e0948c-af98-4d34-8a53-85fdfca520c2"/>
 </div>
 
+<h1>화면 구성</h1>
+<div>
+  <img width="33%" src="https://github.com/HyunSense/hyunsense/assets/130532597/c6d45349-0f26-47c6-861d-eb8f94993bc6" />
+  <img width="33%"  src="https://github.com/HyunSense/hyunsense/assets/130532597/73b3178e-d893-4c1d-883a-304293c99c61" />
+  <img width="33%"  src="https://github.com/HyunSense/hyunsense/assets/130532597/29d06cb3-84f9-413b-86e7-cee34431ced8" />
+  <img width="33%"  src="https://github.com/HyunSense/hyunsense/assets/130532597/fbef31a6-a93b-48bc-bd4e-28a1197b9cf4" />
+  <img width="33%"  src="https://github.com/HyunSense/hyunsense/assets/130532597/774f9fd5-7715-42ee-bac2-5a20a89a6c10" />
+</div>
 
 
