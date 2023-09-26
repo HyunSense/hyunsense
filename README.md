@@ -1,10 +1,9 @@
 <h1>🎶Hot & Funny</h1>
-<div>
-    <a href="https://hyunsense.notion.site/fd8584dc0730455aa340d328dba8beb6?pvs=4">팀 노션 링크</a>
-</div>
-   
 
-<h1>프로젝트 소개 및 주요기능</h1>
+
+<h3>🌟<a href="https://hyunsense.notion.site/fd8584dc0730455aa340d328dba8beb6?pvs=4">팀 노션 링크</a><h3>
+
+<h1>🙉프로젝트 소개 및 주요기능</h1>
 
 - Hot & Funny는 콘서트 예매 웹 사이트   
 - 300석 규모의 좌석 예약 시스템 
@@ -68,18 +67,18 @@
 </div>
 
 
-<h1>와이어 프레임</h1>
+<h1>🔲와이어 프레임</h1>
 <div align="center">
   <img width="80%" align="center" src="https://github.com/HyunSense/hyunsense/assets/130532597/a98082c4-880b-4700-bd22-3b2b3f19b501"/>
 </div>
 
 
-<h1>요구사항 정의서</h1>
+<h1>📝요구사항 정의서</h1>
 <div align="center">
   <img width="80%" src="https://github.com/HyunSense/hyunsense/assets/130532597/3b230830-7896-4a97-88c9-ed0313c65e9f"/>
 </div>
 
-<h1>ERD</h1>
+<h1>💿ERD</h1>
 <div align="center">
   <img width="80%" src="https://github.com/HyunSense/hyunsense/assets/130532597/d0e0948c-af98-4d34-8a53-85fdfca520c2"/>
 </div>
@@ -103,7 +102,7 @@
 </div>
 
 
-# 주요기능
+# 📌주요기능
 
 ### 메인페이지
 - 각 기능(도메인)별 이동, 로그인 및 마이페이지 이동 가능
@@ -152,3 +151,5 @@
     - 전체 게시판관리, 게시판 별(Qna, Event) 삭제 및 수정 기능
 
 # 프로젝트 회고
+
+### 아쉬운점
