@@ -40,22 +40,6 @@ Hot & Funny는 콘서트 예매 서비스입니다.
 </li>
   
 </ul>
-* 현재훈(팀장)
-  * 총괄, 메인페이지
-- 신현욱(Ticket)
-  - 좌석 선택
-  - 결제
-- 고일봉(Ticket)
-  - 예매 날짜 선택
-  - 티켓 발부
-- 임승범(Login/MyPage)
-  - 로그인/회원가입
-  - 마이페이지
-- 손준영(Admin)
-  - 관리자 페이지
-  - 티켓 통계관리
-- 신민기(Board)
-  - 공지사항,이벤트,Qna (게시판)
 
 <div align="center">
   <h3>🎉Tech Stack🎉</h3>
@@ -79,7 +63,6 @@ Hot & Funny는 콘서트 예매 서비스입니다.
   </div>
 </div>
 
-
 <div align="center">
   <h4>✨SNS✨</h4>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
@@ -89,6 +72,6 @@ Hot & Funny는 콘서트 예매 서비스입니다.
 
 
 
-
+  ![image](https://github.com/HyunSense/hyunsense/assets/130532597/5dd70f91-b108-4f56-8ad7-4f68996fe946)
 
 
