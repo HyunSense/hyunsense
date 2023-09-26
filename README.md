@@ -1,8 +1,5 @@
 <h1>🎶Hot & Funny</h1>
-
-
-<h3>🌟<a href="https://hyunsense.notion.site/fd8584dc0730455aa340d328dba8beb6?pvs=4">팀 노션 링크</a><h3>
-
+<h2>🌟<a href="https://hyunsense.notion.site/fd8584dc0730455aa340d328dba8beb6?pvs=4">팀 노션 링크</a></h2>
 <h1>🙉프로젝트 소개 및 주요기능</h1>
 
 - Hot & Funny는 콘서트 예매 웹 사이트   
