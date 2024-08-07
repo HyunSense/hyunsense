@@ -5,6 +5,7 @@
 ✅ **책임감**과 **열정**이 아주 강하여 주어진 프로젝트(과제)에 대한 애착이 강합니다.
 
 <!-- 👉 저에대해 궁금하시다면 [노션이력서](https://hyunsense.notion.site/12f79791ca5e43a9ab938b929bbc12a5?pvs=4)와 [노션 공부기록](https://hyunsense.notion.site/Study-cd2cc1f341b44e94886429fc39fd5b4e?pvs=4)을 방문해주세요. -->
+👉 저에대해 궁금하시다면 [현재훈 포트폴리오](https://github.com/user-attachments/files/16518238/Hyun.update.pdf) 를 방문해주세요.
 
 <div>
   <h4>🛠Technical Skills</h4>
