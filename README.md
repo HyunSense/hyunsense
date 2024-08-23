@@ -25,3 +25,11 @@
     <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>
   </div>
 </div>
+
+</br>
+</br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=123gtgt)](https://solved.ac/123gtgt/)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyunSense&layout=compact&theme=ambient_gradient">
+
+  
